@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:textColorPrimary">@color/TextPrimary</item>
+        <item name="android:windowBackground">@color/Bkggrnd</item>
+    </style>
+
+    <color name="primary">#ff000000</color>
+    <color name="primaryDark">#ff000000</color>
+    <color name="TextPrimary">#ffffffff</color>
+    <color name="Bkggrnd">#ffd7d7d7</color>
+</resources>
